@@ -9,5 +9,5 @@
 
 - IAM user:  
  ![Alt text](https://github.com/Ameenah21/aws-bootcamp-cruddur-2023/blob/main/Images/Screenshot%202023-02-18%20at%2017.47.02.png)
-- Conceptual archictectural diagram: Find the link [here](https://lucid.app/lucidchart/286c129b-6be0-437d-a7d9-f6f0e1003a57/edit?invitationId=inv_5a1ab817-5e45-4416-a7b5-5277016e848b))
+- Conceptual archictectural diagram: check it out on lucid [here](https://lucid.app/lucidchart/286c129b-6be0-437d-a7d9-f6f0e1003a57/edit?invitationId=inv_5a1ab817-5e45-4416-a7b5-5277016e848b))
 ![Alt text](https://github.com/Ameenah21/aws-bootcamp-cruddur-2023/blob/main/Images/AWS%20bootcamp%20Napkin.png)
