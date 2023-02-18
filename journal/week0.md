@@ -5,7 +5,7 @@
  ![Alt text](https://github.com/Ameenah21/aws-bootcamp-cruddur-2023/blob/main/Images/Screenshot%202023-02-18%20at%2017.55.02.png)
  
 - Cloud Shell:  
-![Alt text](Images/Screenshot 2023-02-18 at 17.55.02.png)
+![Alt text](https://github.com/Ameenah21/aws-bootcamp-cruddur-2023/blob/main/Images/Screenshot%202023-02-18%20at%2017.55.02.png)
 
 - IAM user:  
- ![Alt text](Images/Screenshot 2023-02-18 at 17.47.02.png)
+ ![Alt text](https://github.com/Ameenah21/aws-bootcamp-cruddur-2023/blob/main/Images/Screenshot%202023-02-18%20at%2017.47.02.png)
