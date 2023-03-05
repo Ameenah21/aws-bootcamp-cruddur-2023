@@ -2,7 +2,11 @@
 
 - Application: Cruddur
 - Cohort: 2023-A1
-
+I am participating in the Free AWS Cloud Project Bootcamp by [Andrew Brown](https://github.com/omenking)
+## About the BootCamp
+A startup company has decided to build their own micro-blogging platform and has hired you to be its first cloud engineer.
+The company paid a web-development firm to translate their wireframe designs into a mock web-application for the purpose of demoing to raise capital.
+After a successful round of funding, I will be the Cloud Engineer who has been tasked with taking the mock web-application and making it production ready at scale.
 This is the starting codebase that will be used in the FREE AWS Cloud Project Bootcamp 2023
 
 ![Cruddur Graphic](_docs/assets/cruddur-banner.jpg)
@@ -10,9 +14,6 @@ This is the starting codebase that will be used in the FREE AWS Cloud Project Bo
 ![Cruddur Screenshot](_docs/assets/cruddur-screenshot.png)
 
 ## Instructions
-
-At the start of the bootcamp you need to create a new Github Repository from this template.
-
 ## Journaling Homework
 
 The `/journal` directory contains
