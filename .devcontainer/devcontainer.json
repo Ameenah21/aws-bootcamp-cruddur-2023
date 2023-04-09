@@ -23,6 +23,11 @@
 		"2000": {
 			"label": "AWS X-Ray Daemon",
 			"onAutoForward": "notify"
+		},
+
+		"5432": {
+			"label": "Postgres",
+			"onAutoForward": "notify"
 		}
 	},
 
