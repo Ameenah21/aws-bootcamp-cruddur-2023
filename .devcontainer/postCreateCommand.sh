@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # pm install frontend
-cd /workspaces/aws-bootcamp-cruddur-2023/frontend-react-js && pm update -g && npm i;
+cd /workspaces/aws-bootcamp-cruddur-2023/frontend-react-js && npm update -g && npm i;
 # backend pip requirements
 cd /workspaces/aws-bootcamp-cruddur-2023/backend-flask && pip3 install -r requirements.txt;
 # Postgresal

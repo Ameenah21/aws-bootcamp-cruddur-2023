@@ -1,5 +1,6 @@
-from psycopg_pool import ConnectionPool
 import os
+from psycopg_pool import ConnectionPool
+
 
 class Db:
   def __init__(self):
