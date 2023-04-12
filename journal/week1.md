@@ -7,12 +7,12 @@ This week, we set and configured gitpod workspace. We  up docker files for the a
 ![Backend](images/Week-1/backend.png)
 
 #Dynamodb
-![dynamodb](Images/Week-1/dynamo db.png)
+![dynamodb](images/Week-1/dynamo-db.png)
 
 #Postgres
-![postgres](Images/Week-1/postgres.png)
+![postgres](images/Week-1/postgres.png)
 
 #Ports
-![ports](Images/Week 1/ports.png)
+![ports](images/Week 1/ports.png)
 
 /Users/apple/Desktop/Cruddur/aws-bootcamp-cruddur-2023/Images/Week 1/backend.png
