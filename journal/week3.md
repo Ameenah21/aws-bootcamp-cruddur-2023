@@ -3,15 +3,15 @@ This week we implemented user authentication using AWS cognito. We created a cog
 
 
 
-#email verification
+# email verification
 ![Email-verify](images/Week-3/email verify.png)
 
-#Password Recovery
+# Password Recovery
 ![Frontend](images/Week-3/sign-in.png)
 
-#lambda
+# lambda
 ![lambda](images/Week-3/lambda.png)
 
-#lambda logs
+# lambda logs
 ![lambdalogs](images/Week-3/lambda-logs.png)
 
